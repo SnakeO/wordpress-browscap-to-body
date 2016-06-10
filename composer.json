@@ -1,0 +1,6 @@
+{
+    "require": {
+        "browscap/browscap-php": "dev-master"
+    },
+    "minimum-stability": "dev"
+}
